@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="title">Thêm note</string>
+    <string name="hint">Nhập vào đây...</string>
+    <string name="clear_shortcut">Clear</string>
+    <string name="clear_lable">Xóa văn bản</string>
+    <string name="setting_shortcut">Setting</string>
+    <string name="setting_lable">Tùy chỉnh</string>
+    <string name="exit_shortcut">Exit</string>
+    <string name="exit_lable">Thoát</string>
+    <string name="message_caption">Xóa nội dung đã viết</string>
+    <string name="message_content">Bạn muốn xóa nội dung</string>
+    <string name="close">Xác nhận</string>
+    <string name="exit_caption">Thoát</string>
+    <string name="exit_content">Bạn muốn thoát ?</string>
+    <string name="yes">Đồng ý</string>
+    <string name="no">Hủy</string>
+    <string name="size">Kích cỡ</string>
+    <string-array name="color_name_array">
+        <item name="red">Đỏ</item>
+        <item name="orange">Cam</item>
+        <item name ="yellow">Vàng</item>
+        <item name="green">Xanh</item>
+        <item name="blue">Xanh dương</item>
+        <item name="indigo">Tím</item>
+        <item name="violet">Hường</item>
+        <item name="white">Trắng</item>
+        <item name="black">Đen</item>
+    </string-array>
+    <string-array name="color_array">
+        <item>#FF0000</item>
+        <item>#ffa500</item>
+        <item>#ffff00</item>
+        <item>#44FF00</item>
+        <item>#00A6FF</item>
+        <item>#4b0082</item>
+        <item>#ee82ee</item>
+        <item>#FFFFFF</item>
+        <item>#000000</item>
+    </string-array>
+    <string-array name="size_array">
+        <item name="10">10</item>
+        <item name="12.5">12.5</item>
+        <item name="15">15</item>
+        <item name="17.5">17.5</item>
+        <item name="20">20</item>
+        <item name="22.5">22.5</item>
+        <item name="25">25</item>
+        <item name="27.5">27.5</item>
+        <item name="30">30</item>
+    </string-array>
+    <string name="forecolor">Màu chữ</string>
+    <string name="backcolor">Màu nền</string>
+
+</resources>
